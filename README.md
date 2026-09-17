@@ -13,6 +13,5 @@ A simple C++ program to manage bank accounts. It lets you create accounts, depos
 - Saves account data in a file (`accounts.txt`)
 
 ## How to Run
-
 g++ "BANK MANAGEMENT SYSTEM.cpp" -o app
 ./app
