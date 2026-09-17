@@ -14,5 +14,7 @@ A simple C++ program to manage bank accounts. It lets you create accounts, depos
 
 ## How to Run
 
+```bash
 g++ "BANK MANAGEMENT SYSTEM.cpp" -o app
 ./app
+```
