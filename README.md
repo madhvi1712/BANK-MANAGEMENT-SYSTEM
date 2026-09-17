@@ -1,2 +1,18 @@
 # BANK-MANAGEMENT-SYSTEM
-A console-based Bank Management System in C++ using OOP concepts and file handling for persistent account management, including account creation, deposits, withdrawals, and balance inquiries.
+
+A simple C++ program to manage bank accounts. It lets you create accounts, deposit and withdraw money, check balances, and view account details with persistent file storage.
+
+## Features
+- Create new bank accounts
+- Check duplicate account numbers
+- Deposit money
+- Withdraw money with balance validation
+- Check current account balance
+- Display individual account details
+- Display all account records
+- Saves account data in a file (`accounts.txt`)
+
+## How to Run
+
+g++ bank_management.cpp -o app
+./app
